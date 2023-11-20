@@ -26,22 +26,22 @@
 - title: Opening
   start_time: 2023-11-30 08:45:00
   end_time: 2023-11-30 09:00:00
-- title: ALTA Keynote#1 - Reza Haffari, Towards Effective NLP Systems: Cultural Norms, Explainability, and Reasoning Enhancement
+- title: "ALTA Keynote #1 - Reza Haffari, Towards Effective NLP Systems: Cultural Norms, Explainability, and Reasoning Enhancement"
   start_time: 2023-11-30 09:00:00
   end_time: 2023-11-30 10:00:00
 - title: Morning Tea
   start_time: 2023-11-30 10:00:00
   end_time: 2023-11-30 10:30:00
-- title: Oral Presentations (Applications) [Chair: Massimo Piccardi]
+- title: "Oral Presentations (Applications) [Chair: Massimo Piccardi]"
   start_time: 2023-11-30 10:30:00
   end_time: 2023-11-30 12:00:00
-- title: ALTA Keynote#2 - Heng Ji, SmartBook: An AI Prophetess for Disaster Reporting and Forecasting
+- title: "ALTA Keynote #2 - Heng Ji, SmartBook: An AI Prophetess for Disaster Reporting and Forecasting"
   start_time: 2023-11-30 12:00:00
   end_time: 2023-11-30 13:00:00
 - title: Lunch
   start_time: 2023-11-30 13:00:00
   end_time: 2023-11-30 14:00:00
-- title: Oral Presentations (Speech / Linguistics) [Chair: Daniel Beck]
+- title: "Oral Presentations (Speech / Linguistics) [Chair: Daniel Beck]"
   start_time: 2023-11-30 14:00:00
   end_time: 2023-11-30 15:00:00
 - title: Afternoon Tea
@@ -63,7 +63,7 @@
 - title: Morning Tea
   start_time: 2023-12-01 10:00:00
   end_time: 2023-12-01 10:30:00
-- title: Oral Presentations (Medical / ML) [Chair: Antonio Jimeno Yepes]
+- title: "Oral Presentations (Medical / ML) [Chair: Antonio Jimeno Yepes]"
   start_time: 2023-12-01 10:30:00
   end_time: 2023-12-01 12:00:00
 - title: ALTA Keynote#4 (Joint Session with AI@Melbourne Connect Symposium) - Heng Ji
@@ -72,7 +72,7 @@
 - title: Lunch
   start_time: 2023-12-01 13:00:00
   end_time: 2023-12-01 14:00:00
-- title: Oral Presentations (Dialogue) [Chair: Jonathan Kummerfeld]
+- title: "Oral Presentations (Dialogue) [Chair: Jonathan Kummerfeld]"
   start_time: 2023-12-01 14:00:00
   end_time: 2023-12-01 15:30:00
 - title: Afternoon Tea
