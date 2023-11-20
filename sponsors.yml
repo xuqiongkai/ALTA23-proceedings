@@ -1,11 +1,22 @@
+- tier: Platinum
+  logos: 
+    - melbourne_connect.png
+    - telstra.png
 - tier: Gold
   logos:
-    - apple.png
-    - rasa.jpg
+    - unimelb.svg
+    - google.png
+    - defense.png
 - tier: Silver
   logos:
-    - honda.png
-    - toshiba.jpeg
+    - seek.png
+- tier: Bronze
+  logos: 
+    - redenlab.jpg
+    - commonwealth.png
 - tier: In cooperation with
   logos:
-    - boise.png
+    - mc_unimelb.png
+    - rmit.png
+    - mdap.png
+    - macquarie.jpg
