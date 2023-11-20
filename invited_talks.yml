@@ -1,4 +1,4 @@
-- title: Towards Effective NLP Systems: Cultural Norms, Explainability, and Reasoning Enhancement
+- title: "Towards Effective NLP Systems: Cultural Norms, Explainability, and Reasoning Enhancement"
   abstract_file: reza.tex
   speaker_name: Reza Haffari
   institution: Monash University
@@ -6,7 +6,7 @@
   date: 2023-11-30 09:00:00
   location: The Forum, Superfloor, Melbourne Connect
 
-- title: SmartBook: An AI Prophetess for Disaster Reporting and Forecasting
+- title: "SmartBook: An AI Prophetess for Disaster Reporting and Forecasting"
   abstract_file: heng.tex
   speaker_name: Heng Ji
   institution: University of Illinois Urbana-Champaign
@@ -14,7 +14,7 @@
   date: 2023-11-30 12:00:00
   location: The Forum, Superfloor, Melbourne Connect
 
-- title: The commoditisation of NLP in industry
+- title: "The commoditisation of NLP in industry"
   abstract_file: terry.tex
   speaker_name: Terrence Szymanski
   institution: SEEK
