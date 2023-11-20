@@ -2,6 +2,9 @@ book_title: Proceedings of The 21st Annual Workshop of the Australasian Language
 event_name: Proceedings of the 21st Annual Workshop of the Australasian Language Technology Association
 volume_name: main
 cover_subtitle:
+organization: University of Melbourne
+place: Melbourne, Australia
+logo: alta_2023_logo.png
 anthology_venue_id: ALTA
 start_date: 2023-11-29
 end_date: 2023-12-01
