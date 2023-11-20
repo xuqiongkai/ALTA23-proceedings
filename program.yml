@@ -1,72 +1,88 @@
-- end_time: 2020-07-01 07:45:00
-  start_time: 2020-07-01 07:30:00
-  title: Opening Remarks
-- end_time: 2020-07-01 09:30:00
-  start_time: 2020-07-01 09:00:00
-  title: Break
-- title: Session 1
-  start_time: 2020-07-01 09:30:00
-  end_time: 2020-07-01 11:30:00
-- end_time: 2020-07-01 11:50:00
-  start_time: 2020-07-01 11:30:00
-  title: Break
-- title: Session 2
-  start_time: 2020-07-01 11:50:00
-  end_time: 2020-07-01 15:30:00
-- end_time: 2020-07-01 16:00:00
-  start_time: 2020-07-01 15:30:00
-  title: Break
-- title: Session 3
-  start_time: 2020-07-01 16:00:00
-  end_time: 2020-07-01 19:15:00
-- end_time: 2020-07-01 19:30:00
-  start_time: 2020-07-01 19:15:00
-  title: Break
-- end_time: 2020-07-01 20:15:00
-  start_time: 2020-07-01 19:30:00
-  title: Breakouts Discussion Sessions
-- title: Session 1
-  start_time: 2020-07-02 05:00:00
-  end_time: 2020-07-02 07:10:00
-- end_time: 2020-07-02 07:30:00
-  start_time: 2020-07-02 07:10:00
-  title: Break
-- title: Session 2
-  start_time: 2020-07-02 07:30:00
-  end_time: 2020-07-02 08:20:00
-- end_time: 2020-07-02 08:45:00
-  start_time: 2020-07-02 08:20:00
-  title: Break
-- end_time: 2020-07-02 09:30:00
-  start_time: 2020-07-02 08:45:00
-  title: Sponsor Booth
-- end_time: 2020-07-02 10:15:00
-  start_time: 2020-07-02 09:30:00
-  title: Breakout Discussion Sessions
-- end_time: 2020-07-02 10:45:00
-  start_time: 2020-07-02 10:15:00
-  title: Break
-- title: Session 3
-  start_time: 2020-07-02 10:45:00
-  end_time: 2020-07-02 11:50:00
-- end_time: 2020-07-02 12:30:00
-  start_time: 2020-07-02 11:50:00
-  title: Break
-- title: Session 4
-  start_time: 2020-07-02 12:30:00
-  end_time: 2020-07-02 16:30:00
-- end_time: 2020-07-02 17:00:00
-  start_time: 2020-07-02 16:30:00
-  title: Break
-- title: Session 5
-  start_time: 2020-07-02 18:35:00
-  end_time: 2020-07-02 19:40:00
-- title: Sessions 1
-  start_time: 2020-07-03 05:30:00
-  end_time: 2020-07-03 07:10:00
-- end_time: 2020-07-03 07:30:00
-  start_time: 2020-07-03 07:10:00
-  title: Break
-- end_time: 2020-07-03 09:45:00
-  start_time: 2020-07-03 08:45:00
-  title: Business Meeting, Awards, Closing (live)
+# Day 1
+- title: Lunch
+  start_time: 2023-11-29 12:00:00
+  end_time: 2023-11-29 13:00:00
+- title: Tutorial Part 1
+  start_time: 2023-11-29 13:00:00
+  end_time: 2023-11-29 14:00:00
+- title: Afternoon Tea
+  start_time: 2023-11-29 14:00:00
+  end_time: 2023-11-29 14:15:00
+- title: Tutorial Part 2
+  start_time: 2023-11-29 14:15:00
+  end_time: 2023-11-29 15:15:00
+- title: Break
+  start_time: 2023-11-29 15:15:00
+  end_time: 2023-11-29 15:30:00
+- title: Tutorial Part 3
+  start_time: 2023-11-29 15:30:00
+  end_time: 2023-11-29 16:30:00
+- title: Tutorial Conclude and NLP Meetup Refreshments
+  start_time: 2023-11-29 16:30:00
+  end_time: 2023-11-29 17:15:00
+- title: NLP Meetup@Melbourne Connect
+  start_time: 2023-11-29 17:15:00
+# Day 2
+- title: Opening
+  start_time: 2023-11-30 08:45:00
+  end_time: 2023-11-30 09:00:00
+- title: ALTA Keynote#1 - Reza Haffari, Towards Effective NLP Systems: Cultural Norms, Explainability, and Reasoning Enhancement
+  start_time: 2023-11-30 09:00:00
+  end_time: 2023-11-30 10:00:00
+- title: Morning Tea
+  start_time: 2023-11-30 10:00:00
+  end_time: 2023-11-30 10:30:00
+- title: Oral Presentations (Applications) [Chair: Massimo Piccardi]
+  start_time: 2023-11-30 10:30:00
+  end_time: 2023-11-30 12:00:00
+- title: ALTA Keynote#2 - Heng Ji, SmartBook: An AI Prophetess for Disaster Reporting and Forecasting
+  start_time: 2023-11-30 12:00:00
+  end_time: 2023-11-30 13:00:00
+- title: Lunch
+  start_time: 2023-11-30 13:00:00
+  end_time: 2023-11-30 14:00:00
+- title: Oral Presentations (Speech / Linguistics) [Chair: Daniel Beck]
+  start_time: 2023-11-30 14:00:00
+  end_time: 2023-11-30 15:00:00
+- title: Afternoon Tea
+  start_time: 2023-11-30 15:00:00
+  end_time: 2023-11-30 15:15:00
+- title: Panel Discussion
+  start_time: 2023-11-30 15:15:00
+  end_time: 2023-11-30 16:15:00
+- title: Abstract Presentations / Industry Demonstrations
+  start_time: 2023-11-30 16:15:00
+  end_time: 2023-11-30 17:15:00
+- title: Dinner@Stomping Ground
+  start_time: 2023-11-30 16:30:00
+
+# Day 3
+- title: ALTA Keynote#3 - Terrence Szymanski
+  start_time: 2023-12-01 09:00:00
+  end_time: 2023-12-01 10:00:00
+- title: Morning Tea
+  start_time: 2023-12-01 10:00:00
+  end_time: 2023-12-01 10:30:00
+- title: Oral Presentations (Medical / ML) [Chair: Antonio Jimeno Yepes]
+  start_time: 2023-12-01 10:30:00
+  end_time: 2023-12-01 12:00:00
+- title: ALTA Keynote#4 (Joint Session with AI@Melbourne Connect Symposium) - Heng Ji
+  start_time: 2023-12-01 12:00:00
+  end_time: 2023-12-01 13:00:00
+- title: Lunch
+  start_time: 2023-12-01 13:00:00
+  end_time: 2023-12-01 14:00:00
+- title: Oral Presentations (Dialogue) [Chair: Jonathan Kummerfeld]
+  start_time: 2023-12-01 14:00:00
+  end_time: 2023-12-01 15:30:00
+- title: Afternoon Tea
+  start_time: 2023-12-01 15:30:00
+  end_time: 2023-12-01 15:45:00
+- title: Oral Presentations (Shared Task)
+  start_time: 2023-12-01 15:45:00
+  end_time: 2023-12-01 16:45:00
+- title: ALTA AGM
+  start_time: 2023-12-01 16:45:00
+  end_time: 2023-12-01 17:00:00
+- title: Best Paper Award / Shared Task Award/ Closing
+  start_time: 2023-12-01 17:00:00
