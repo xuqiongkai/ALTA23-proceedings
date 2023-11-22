@@ -20,14 +20,14 @@
 - title: Tutorial Conclude and NLP Meetup Refreshments
   start_time: 2023-11-29 16:30:00
   end_time: 2023-11-29 17:15:00
-- title: NLP Meetup@Melbourne Connect
+- title: "NLP Meetup @ Melbourne Connect"
   start_time: 2023-11-29 17:15:00
   end_time: 2023-11-29 19:30:00
 # Day 2
 - title: Opening
   start_time: 2023-11-30 08:45:00
   end_time: 2023-11-30 09:00:00
-- title: "ALTA Keynote #1 - Reza Haffari, Towards Effective NLP Systems: Cultural Norms, Explainability, and Reasoning Enhancement"
+- title: "ALTA Keynote 1 - Reza Haffari, Towards Effective NLP Systems: Cultural Norms, Explainability, and Reasoning Enhancement"
   start_time: 2023-11-30 09:00:00
   end_time: 2023-11-30 10:00:00
 - title: Morning Tea
@@ -36,7 +36,7 @@
 - title: "Oral Presentations (Applications) [Chair: Massimo Piccardi]"
   start_time: 2023-11-30 10:30:00
   end_time: 2023-11-30 12:00:00
-- title: "ALTA Keynote #2 - Heng Ji, SmartBook: An AI Prophetess for Disaster Reporting and Forecasting"
+- title: "ALTA Keynote 2 - Heng Ji, SmartBook: An AI Prophetess for Disaster Reporting and Forecasting"
   start_time: 2023-11-30 12:00:00
   end_time: 2023-11-30 13:00:00
 - title: Lunch
@@ -54,12 +54,11 @@
 - title: Abstract Presentations / Industry Demonstrations
   start_time: 2023-11-30 16:15:00
   end_time: 2023-11-30 17:15:00
-- title: Dinner@Stomping Ground
+- title: "Dinner @ Stomping Ground"
   start_time: 2023-11-30 18:30:00
   end_time: 2023-11-30 22:00:00
-
 # Day 3
-- title: ALTA Keynote#3 - Terrence Szymanski
+- title: "ALTA Keynote 3 - Terrence Szymanski"
   start_time: 2023-12-01 09:00:00
   end_time: 2023-12-01 10:00:00
 - title: Morning Tea
@@ -68,7 +67,7 @@
 - title: "Oral Presentations (Medical / ML) [Chair: Antonio Jimeno Yepes]"
   start_time: 2023-12-01 10:30:00
   end_time: 2023-12-01 12:00:00
-- title: ALTA Keynote#4 (Joint Session with AI@Melbourne Connect Symposium) - Heng Ji
+- title: "ALTA Keynote 4 (Joint Session with AI@Melbourne Connect Symposium) - Heng Ji"
   start_time: 2023-12-01 12:00:00
   end_time: 2023-12-01 13:00:00
 - title: Lunch
@@ -86,6 +85,6 @@
 - title: ALTA AGM
   start_time: 2023-12-01 16:45:00
   end_time: 2023-12-01 17:00:00
-- title: Best Paper Award / Shared Task Award/ Closing
+- title: Best Paper Award / Shared Task Award / Closing
   start_time: 2023-12-01 17:00:00
   end_time: 2023-12-01 17:30:00
