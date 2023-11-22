@@ -22,6 +22,7 @@
   end_time: 2023-11-29 17:15:00
 - title: NLP Meetup@Melbourne Connect
   start_time: 2023-11-29 17:15:00
+  end_time: 2023-11-29 19:30:00
 # Day 2
 - title: Opening
   start_time: 2023-11-30 08:45:00
@@ -54,7 +55,8 @@
   start_time: 2023-11-30 16:15:00
   end_time: 2023-11-30 17:15:00
 - title: Dinner@Stomping Ground
-  start_time: 2023-11-30 16:30:00
+  start_time: 2023-11-30 18:30:00
+  end_time: 2023-11-30 22:00:00
 
 # Day 3
 - title: ALTA Keynote#3 - Terrence Szymanski
@@ -86,3 +88,4 @@
   end_time: 2023-12-01 17:00:00
 - title: Best Paper Award / Shared Task Award/ Closing
   start_time: 2023-12-01 17:00:00
+  end_time: 2023-12-01 17:30:00
