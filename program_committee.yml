@@ -18,7 +18,7 @@
     institution: Research, Facebook
     last_name: Sood
   - first_name: Daniel
-    institution: University of Melbourne
+    institution: The University of Melbourne
     last_name: Beck
   - first_name: Diego
     institution: Macquarie University
@@ -45,11 +45,11 @@
     institution: Tokyo Institute of Technology
     last_name: Yoshikawa
   - first_name: Jeffrey
-    institution: University of Melbourne
+    institution: Royal Melbourne Institute of Technology
     last_name: Chan
   - first_name: Jonathan
     institution: University of Sydney
-    last_name: K.
+    last_name: Kummerfeld
   - first_name: Karin
     institution: Royal Melbourne Institute of Technology
     last_name: Verspoor
@@ -57,7 +57,7 @@
     institution: The University of Melbourne
     last_name: Kurniawan
   - first_name: Lea
-    institution: University of Melbourne
+    institution: The University of Melbourne
     last_name: Frermann
   - first_name: Mac
     institution: Macquarie University
@@ -96,9 +96,9 @@
     institution: Royal Melbourne Institute of Technology
     last_name: Zhang
   - first_name: Xudong
-    institution: University of Melbourne
+    institution: The University of Melbourne
     last_name: Han
   - first_name: Zhuohan
-    institution: University of Melbourne
+    institution: The University of Melbourne
     last_name: Xie
   role: Reviewers
