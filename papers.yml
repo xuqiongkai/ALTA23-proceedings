@@ -2,8 +2,8 @@
     "News headlines or titles that deliberately persuade readers to view a particular online content are referred to as clickbait. There have been numerous studies focused on clickbait detection in English language, compared to that, there have been very few researches carried out that address clickbait detection in Bangla news headlines. In this study, we have experimented with several distinctive transformers models, namely BanglaBERT and XLM-RoBERTa. Additionally, we introduced a domain-adaptive pretrained model, BanglaClickBERT. We conducted a series of experiments to identify the most effective model. The dataset we used for this study contained 15,056 labeled and 65,406 unlabeled news headlines; in addition to that, we have collected more unlabeled Bangla news headlines by scraping clickbait-dense websites making a total of 1 million unlabeled news headlines in order to make our BanglaClickBERT. Our approach has successfully surpassed the performance of existing state-of-the-art technologies providing a more accurate and efficient solution for detecting clickbait in Bangla news headlines, with potential implications for improving online content quality and user experience."
   attributes:
     paper_type: long
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Saman Sarker 
     last_name: Joy
@@ -20,8 +20,8 @@
     "Retelling a story is one way to develop narrative skills in students, but it may present some challenges for English as Second Language (ESL) students who are learning new stories and vocabularies at the same time. The goal of this research is to develop a dialogue module for story co-telling for ESL students in order to help students to co-narrate an English story and enhance their narrative skills. However, story co-telling is a relatively underexplored and novel task. In order to understand the story content and select the right plot to continue the story co-telling based on the current dialogue, we utilize open domain information extraction techniques to construct a knowledge graph, and adopt multi-agent reinforcement learning methods to train two agents to select relevant facts from the knowledge graph and generate responses, jointly accomplishing the task of story co-telling. Compared to models that reply on chronological order, our model improves the performance from 67.0% to 70.8% through self-training with reward evaluation, achieving an increase of approximately 3.8%."
   attributes:
     paper_type: long
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Yu-Kai  
     last_name: Lee
@@ -34,8 +34,8 @@
     "We present a cross-linguistic study in which the open source C-LARA platform was used to evaluate GPT-4's ability to perform several key tasks relevant to Computer Assisted Language Learning. For each of the languages English, Farsi, Faroese, Mandarin and Russian, we instructed GPT-4, through C-LARA, to write six different texts, using prompts chosen to obtain texts of widely differing character. We then further instructed GPT-4 to annotate each text with segmentation markup, glosses and lemma/part-of-speech information; native speakers hand-corrected the texts and annotations to obtain error rates on the different component tasks. The C-LARA platform makes it easy to combine the results into a single multimodal document, further facilitating checking of their correctness. GPT-4's performance varied widely across languages and processing tasks, but performance on different text genres was roughly comparable. In some cases, most notably glossing of English text, we found that GPT-4 was consistently able to revise its annotations to improve them."
   attributes:
     paper_type: long
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: ChatGPT 
     last_name: C-LARA-Instance
@@ -60,8 +60,8 @@
     "Determining causal directions in sentences plays a critical role into understanding a cause-and-effect relationship between entities. In this paper, we show empirically that word occurrences from several Internet domains resemble the characteristics of causal directions. Our research contributes to the knowledge of the underlying data generation process behind causal directions. We propose a two-phase method: 1. Bayesian framework, which generates synthetic data from posteriors by incorporating word occurrences from the Internet domains. 2. Pre-trained BERT, which utilises semantics of words based on the context to perform classification. The proposed method achieves an improvement in performance for the Cause-Effect relations of the SemEval-2010 dataset, when compared with random guessing."
   attributes:
     paper_type: long
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: King Tao Jason 
     last_name: Ng 
@@ -74,8 +74,8 @@
     "This paper exploits band-limited cepstral coefficients (BLCCs) in forensic voice comparison (FVC), with the primary aim of locating speaker-sensitive spectral regions. BLCCs are sub-band cepstral coefficients (CCs) which are easily obtained by a linear transformation of full-band CCs. The transformation gives the flexibility of selecting any sub-band region without the recurrent cost of spectral analyses. Using multi-band BLCCs obtained by sliding a 600-Hz sub-band every 400 Hz across the full [0-5kHz] range, FVC experiments were attempted using citation recordings of the 5 Japanese vowels from 297 adult-male, native speakers. The FVC results give locations and ranges for the most speaker-sensitive sub-bands, and show that combining 3-4 of these yields comparable FVC performance with full-band CCs. Owing to their ability to easily extract locally-encoded speaker information from full-band CCs, it can be conjectured that BLCCs have a significant role to play in the search for meaningful interpretations of the numerical outcome of forensic analyses."
   attributes:
     paper_type: long
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Shunichi    
     last_name: Ishihara 
@@ -88,8 +88,8 @@
     "Voice-enabled technologies such as virtual assistants are quickly becoming ubiquitous. Their functionality relies on machine learning (ML) models that perform tasks such as automatic speech recognition (ASR). These models, in general, currently perform less accurately for some cohorts of speakers, across axes such as age, gender and accent; they are biased. ML models are trained from large datasets. ML Practitioners (MLPs) are interested in addressing bias across the ML lifecycle, and they often use dataset documentation here to understand dataset characteristics. However, there is a lack of research centred on voice dataset documentation. Our work makes an empirical contribution to this gap, identifying shortcomings in voice dataset documents (VDD), and arguing for actions to improve them. First, we undertake 13 interviews with MLPs who work with voice data, exploring how they use VDDs. We focus here on MLP roles and trade-offs made when working with VDDs. Drawing from the literature and from interview data, we create a rubric through which to analyse VDDs for nine voice datasets. Triangulating the two methods in our findings, we show that VDDs are inadequate for the needs of MLPs on several fronts. VDDs currently codify voice data characteristics in fragmented ways that make it difficult to compare and combine datasets, presenting a barrier to MLPs' bias reduction efforts. We then seek to address these shortcomings and \"right the docs\" by proposing improvement actions aligned to our findings."
   attributes:
     paper_type: long
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Kathy  
     last_name: Reid 
@@ -102,8 +102,8 @@
     "Stock market prediction is considered a complex task due to the non-stationary and volatile nature of the stock markets. With the increasing amount of online data, various information sources have been analyzed to understand the underlying patterns of the price movements. However, most existing works in the literature mostly focus on either the intra-modality information within each input data type, or the inter-modal relationships among the input modalities. Different from these, in this research, we propose a novel Multi-Modal Cross Attention Network for Stock Market Prediction (MCASP) by capturing both modality-specific features and the joint influence of each modality in a unified framework. We utilize financial news, historical market data and technical indicators to predict the movement direction of the market prices. After processing the input modalities with three separate deep networks, we first construct a self-attention network that utilizes multiple Transformer models to capture the intra-modal information. Then we design a novel cross-attention network that processes the inputs in pairs to exploit the cross-modal and joint information of the modalities. Experiments with real world datasets for S&P500 index forecast and the prediction of five individual stocks, demonstrate the effectiveness of the proposed multi-modal design over several state-of-the-art baseline models."
   attributes:
     paper_type: long
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Kamaladdin  
     last_name: Fataliyev
@@ -116,8 +116,8 @@
     "We investigated the development of a Machine Learning (ML)-based classifier to identify abnormalities in radiology reports from Emergency Departments (EDs) that can help automate the radiology report reconciliation process. Often, radiology reports become available to the ED only after the patient has been treated and discharged, following ED clinician interpretation of the X-ray. However, occasionally ED clinicians misdiagnose or fail to detect subtle abnormalities on X-rays, so they conduct a manual radiology report reconciliation process as a safety net. Previous studies addressed this problem of automated reconciliation using ML-based classification solutions that require data samples from the target institution that is heavily based on feature engineering, implying lower transferability between hospitals. In this paper, we investigated the benefits of using pre-trained BERT models for abnormality classification in a cross-institutional setting where data for fine-tuning was unavailable from the target institution. We also examined how the inclusion of synthetically generated radiology reports from ChatGPT affected the performance of the BERT models. Our findings suggest that BERT-like models outperform previously proposed ML-based methods in cross-institutional scenarios, and that adding ChatGPT-generated labelled radiology reports can improve the classifier’s performance by reducing the number of misdiagnosed discharged patients."
   attributes:
     paper_type: long
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Filip 
     last_name: Rusak 
@@ -138,8 +138,8 @@
     "Flowchart-grounded troubleshooting dialogue (FTD) systems, which follow the instructions of a flowchart to diagnose users' problems in specific domains (e.g., vehicle, laptop), have been gaining research interest in recent years. However, collecting sufficient dialogues that are naturally grounded on flowcharts is costly, thus FTD systems are impeded by scarce training data. To mitigate the data sparsity issue, we propose a plan-based synthetic data generation (PlanSDG) approach that generates diverse synthetic dialog data at scale by transforming concise flowchart into dialogues. Specifically, its generative model employs a variational-base framework with a hierarchical planning strategy that includes global and local latent planning variables. Experiments on the FloDial dataset show that synthetic dialogue produced by PlanSDG improves the performance of downstream tasks, including flowchart path retrieval and response generation, in particular on the Out-of-Flowchart settings. In addition, further analysis demonstrate the quality of synthetic data generated by PlanSDG in paths that are covered by current sample dialogues and paths that are not covered."
   attributes:
     paper_type: long
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Haolan   
     last_name: Zhan
@@ -160,8 +160,8 @@
     "This study adopts an inter-disciplinary approach to explore how the prefixation is encoded and contributes to the word formation in Zhangzhou Southern Min, an under-described Sinitic dialect spoken in the South Fujian of mainland China. It addresses five specific aspects, comprising semantic function, morpho-syntactic characteristics, prosodic effect, pragmatic significance, along with their occurrence constraints. The exploration directly fills in the research gap in the study of Zhangzhou, and substantially advance our knowledge of the encoding of prefixation in Southern Chinese dialects. It contributes vital linguistic data to the typology of prefixation as an important phenomenon in world’s natural languages, while enlightening the theoretical discussion on how Sinitic languages should be better defined from the morpho-syntactic perspective."
   attributes:
     paper_type: long
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Yishan 
     last_name: Huang
@@ -172,8 +172,8 @@
     "Thanks to the state-of-the-art Large Language Models (LLMs), language generation has reached outstanding levels. These models are capable of generating high quality content, thus making it a challenging task to detect generated text from human-written content. Despite the advantages provided by Natural Language Generation, the inability to distinguish automatically generated text can raise ethical concerns in terms of authenticity. Consequently, it is important to design and develop methodologies to detect artificial content. In our work, we present some classification models constructed by ensembling transformer models such as Sci-BERT, DeBERTa and XLNet, with Convolutional Neural Networks (CNNs). Our experiments demonstrate that the considered ensemble architectures surpass the performance of the individual transformer models for classification. Furthermore, the proposed SciBERT-CNN ensemble model produced an F1-score of 98.36% on the ALTA shared task 2023 data."
   attributes:
     paper_type: short
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Vijini 
     last_name: Liyanage 
@@ -186,8 +186,8 @@
     "Conversation disentanglement is the task of taking a log of intertwined conversations from a shared channel and breaking the log into individual conversations. The standard datasets for disentanglement are in a single domain and were annotated by linguistics experts with careful training for the task. In this paper, we introduce the first multi-domain dataset and a study of annotation by people without linguistics expertise or extensive training. We experiment with several variations in interfaces, conducting user studies with domain experts and crowd workers. We also test a hypothesis from prior work that link-based annotation is more accurate, finding that it actually has comparable accuracy to set-based annotation. Our new dataset will support the development of more useful systems for this task, and our experimental findings suggest that users are capable of improving the usefulness of these systems by accurately annotating their own data."
   attributes:
     paper_type: short
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Sai R. 
     last_name: Gouravajhala
@@ -208,8 +208,8 @@
     "Bacterial infection (BI) is an important clinical condition and is related to many diseases that are difficult to treat. Early prediction of BI can lead to better treatment and appropriate use of antimicrobial medications. In this paper, we study a variety of NLP models to predict BI for critically ill patients and compare them with a strong baseline based on clinical measurements. We find that choosing the proper text-based model to combine with measurements can lead to substantial improvements. Our results show the value of clinical text in predicting and managing BI. We also find that the NLP model developed using patients with BI can be transferred to the more general patient cohort for patient risk prediction."
   attributes:
     paper_type: short
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Jinghui   
     last_name: Liu 
@@ -222,8 +222,8 @@
     "Measuring empathy as a natural language processing task has often been limited to a subjective measure of how well individuals respond to each other in emotive situations. Cognitive empathy, or an individual's ability to accurately assess another individual's thoughts, remains a more novel task. In this paper, we explore natural language processing techniques to measure cognitive empathy using paired sentence data from design interviews. Our findings show that an unsupervised approach based on similarity of vectors from a Large Language Model is surprisingly promising, while adding supervision does not necessarily improve the performance. An analysis of the results highlights potential reasons for this behaviour and gives directions for future work in this space."
   attributes:
     paper_type: short
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Steven Nguyen   
     last_name: Fataliyev
@@ -238,8 +238,8 @@
     "Named entity recognition (NER) in clinical documentation is often hindered by the use of highly specialised terminology, variation in language used to express medical findings and general scarcity of high-quality data available for training. This short paper compares a Conditional Random Fields model to the previously established dictionary-based approach and evaluates its ability to extract information from a small corpus of annotated pathology reports. The results suggest that including token descriptors as well as contextual features significantly improves precision on several concept categories while maintaining the same level of recall."
   attributes:
     paper_type: short
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Yang 
     last_name: Meng 
@@ -254,8 +254,8 @@
     "We explore the relationship between empathy and toxicity in the context of online mental health forums. Despite the common assumption of a negative correlation between these concepts, it has not been empirically examined. We augment the EPITOME mental health empathy dataset with toxicity labels using two widely employed toxic/harmful content detection APIs: Perspective API and OpenAI moderation API. We find a notable presence of toxic/harmful content (17.77%) within empathetic responses, and only a very weak negative correlation between the two variables. Qualitative analysis revealed contributions labeled as empathetic often contain harmful content such as promotion of suicidal ideas. Our results highlight the need for reevaluating empathy independently from toxicity in future research and encourage a reconsideration of empathy's role in natural language generation and evaluation."
   attributes:
     paper_type: short
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Research
   authors:
   - first_name: Ming-Bin 
     last_name: Chen
@@ -270,8 +270,8 @@
     "The ALTA shared tasks have been running annually since 2010. In 2023, the purpose of the task is to build automatic detection systems that can discriminate between human-written and synthetic text generated by Large Language Models (LLM). In this paper we present the task, the evaluation criteria, and the results of the systems participating in the shared task."
   attributes:
     paper_type: task
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Shared Task
   authors:
   - first_name: Diego 
     last_name: Molla 
@@ -288,8 +288,8 @@
     "The goal of ALTA 2023 Shared Task is to distinguish between human-authored text and synthetic text generated by Large Language Models (LLMs). Given the growing societal concerns surrounding LLMs, this task addresses the urgent need for robust text verification strategies. In this paper, we describe our method, a fine-tuned Falcon-7B model with incorporated label smoothing into the training process. We applied model prompting to samples with lower confidence scores to enhance prediction accuracy. Our model achieved a statistically significant accuracy of 0.991."
   attributes:
     paper_type: task
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Shared Task
   authors:
   - first_name: Rinaldo 
     last_name: Gagiano 
@@ -302,8 +302,8 @@
     "In this paper, I provide a detailed description of my approach to tackling the ALTA 2023 shared task whose objective is to build an automatic detection system to distinguish between humanauthored text and text generated from Large Language Models. By leveraging several pretrained language models through model finetuning as well as the multi-model ensemble, the system managed to achieve second place on the test set leaderboard in the competition."
   attributes:
     paper_type: task
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Shared Task
   authors:
   - first_name: Yunhao  
     last_name: Fang 
@@ -314,8 +314,8 @@
     "Recent advancements in Large Language models (LLMs) have empowered them to achieve text generation capabilities on par with those of humans. These recent advances paired with the wide availability of those models have made Large Language models adaptable in many domains, from scientific writing to story generation along with many others. This recent rise has made it crucial to develop systems to discriminate between human-authored and synthetic text generated by Large Language models (LLMs). Our proposed system for the ALTA shared task, based on ensembling a number of language models, claimed first place on the development set with an accuracy of 99.35% and third place on the test set with an accuracy of 98.35%."
   attributes:
     paper_type: task
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Shared Task
   authors:
   - first_name: Ahmed  
     last_name: El-Sayed 
@@ -328,8 +328,8 @@
     "As large language models, or LLMs, continue to advance in recent years, they require the development of a potent system to detect whether a text was created by a human or an LLM in order to prevent the unethical use of LLMs. To address this challenge, ALTA Shared Task 2023 introduced a task to build an automatic detection system that can discriminate between human-authored and synthetic text generated by LLMs. In this paper, we present our participation in this task where we proposed a feature-level ensemble of two transformer models namely DeBERTaV3 and XLM-RoBERTa to come up with a robust system. The given dataset consisted of textual data with two labels where the task was binary classification. Experimental results show that our proposed method achieved competitive performance among the participants. We believe this solution would make an impact and provide a feasible solution for detection of synthetic text detection."
   attributes:
     paper_type: task
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Shared Task
   authors:
   - first_name: Saman Sarker 
     last_name: Joy 
@@ -342,8 +342,8 @@
     "This paper reports our submission under the team name ‘SynthDetectives’ to the ALTA 2023 Shared Task. We use a stacking ensemble of Transformers for the task of AI-generated text detection. Our approach is novel in terms of its choice of models in that we use accessible and lightweight models in the ensemble. We show that ensembling the models results in an improved accuracy in comparison with using them individually. Our approach achieves an accuracy score of 0.9555 on the official test data provided by the shared task organisers."
   attributes:
     paper_type: task
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Shared Task
   authors:
   - first_name: Duke     
     last_name: Nguyen 
@@ -358,8 +358,8 @@
     "Learning from real-world clinical data has potential to promote the quality of care, improve the efficiency of healthcare systems, and support clinical research. As a large proportion of clinical information is recorded only in unstructured free-text format, applying NLP to process and understand the vast amount of clinical text generated in clinical encounters is essential. However, clinical text is known to be highly ambiguous, it contains complex professional terms requiring clinical expertise to understand and annotate, and it is written in different clinical contexts with distinct purposes. All these factors together make clinical NLP research both rewarding and challenging. In this tutorial, we will discuss the characteristics of clinical text and provide an overview of some of the tools and methods used to process it. We will also present a real-world example to show the effectiveness of different NLP methods in processing and understanding clinical text. Finally, we will discuss the strengths and limitations of large language models and their applications, evaluations, and extensions in clinical NLP."
   attributes:
     paper_type: tutorial
-    presentation_type: poster
-    submitted_area: Area 1
+    presentation_type: oral
+    submitted_area: Tutorial
   authors:
   - first_name: Vlada 
     last_name: Rozova 
